@@ -1,5 +1,10 @@
 {
   "name": "P-Count Free Parking Space",
-  "render_readme": true,
-  "homeassistant": "2025.5.0"
+  "content_in_root": false,
+  "zip_release": true,
+  "filemane": "p_count_free_parking_space.zip",
+  "country": ["DE","CH"],
+  "homeassistant": "2025.5.0",
+  "hacs": "2.0.5",
+  "render_readme": true
 }
