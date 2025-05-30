@@ -187,4 +187,4 @@ cython_debug/
 *.vsix
 
 # Visual Studio Code Workspace
-hacs_p_count.code-workspace
+*.code-workspace
