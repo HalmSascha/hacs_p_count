@@ -1,2 +1,2 @@
-# P-Count Freie Parkplätze
+# P-Count | Free Parking Space
 tbd
