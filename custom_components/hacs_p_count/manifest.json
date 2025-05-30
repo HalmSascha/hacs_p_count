@@ -1,0 +1,17 @@
+{
+    "domain": "p_count",
+    "name": "P-Count Free Parking Space",
+    "version": "2025.6.0",
+    "codeowners": [
+        "@HalmSascha"
+    ],
+    "config_flow": true,
+    "dependencies": [
+        "hacs"
+    ],
+    "documentation": "https://github.com/HalmSascha/hacs_p_count",
+    "issue_tracker": "https://github.com/HalmSascha/hacs_p_count/issues",
+    "integration_type": "hub",
+    "requirements": [],
+    "iot_class": "cloud_polling"
+}
